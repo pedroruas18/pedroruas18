@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pedro Ruas</h1>
 <h3 align="center">I'm a PhD student working on biomedical text mining problems, with focus on the named entity linking task</h3>
 
-- 📫 How to reach me **psruas@fc.ul.pt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
