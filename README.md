@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Pedro Ruas</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm a PhD student working on biomedical text mining problems, with focus on the named entity linking task</h3>
 
 - 🔭 I’m currently collaborating with the [LasigeBioTM research group](https://github.com/lasigeBioTM)
